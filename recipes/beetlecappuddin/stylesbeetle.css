@@ -36,7 +36,7 @@ img {
 .ingredients {
     color: #FFFFFF;
     background-color: #766B6B;
-    margin: 30px;
+    margin: 30px 400px;
     padding: 6px 30px;
     border: 6px solid #3F3A3A;    
 }
@@ -48,7 +48,7 @@ img {
 .instructions {
     color: #F9E8E8;
     background-color: #66333380;
-    margin: 30px;
+    margin: 30px 400px;
     padding: 15px 40px;
     border: 6px solid #3F3A3A; 
     font-weight: 600;
